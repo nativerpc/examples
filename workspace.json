@@ -1,0 +1,10 @@
+{
+  "projectNames": [
+    "cpp_client",
+    "cpp_server",
+    "python_client",
+    "python_server",
+    "typescript_client",
+    "typescript_server"
+  ]
+}
