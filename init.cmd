@@ -106,7 +106,6 @@ popd
 :: Workspace
 cmake -E cmake_echo_color --yellow "-----Workspace-----"
 nativerpc init
-@REM nativerpc files
 
 :: Success
 cmake -E cmake_echo_color --yellow "-----Success-----"

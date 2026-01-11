@@ -1,0 +1,3 @@
+[submodule "nativerpc"]
+	path = nativerpc
+	url = https://github.com/nativerpc/nativerpc.git
